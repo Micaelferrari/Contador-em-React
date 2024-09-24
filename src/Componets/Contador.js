@@ -75,7 +75,6 @@ const ResetButton = styled(Button)`
     }
 `;
 
-// Componente Contador
 export class Contador extends React.Component {
     state = {
         valorContador: 0
